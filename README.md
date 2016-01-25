@@ -6,7 +6,7 @@ There are two tasks to be submitted:
 -   Domain Specific Task
     - In this task, you have to submit solution to any one problem from below given domains. You can solve any domain any number of problems. There are no constraints on that issue.
 
-##### Deadline : 2nd Feb 2016
+##### Deadline : 11:59 pm 2nd Feb 2016
 ##### Submission Method :
 -   If you are familier with git
     -  Open an issue in this repo as `Task submission <YOUR REG NUMBER>`.And paste the link of your github repo with your task.
