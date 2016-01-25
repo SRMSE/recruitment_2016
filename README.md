@@ -30,8 +30,11 @@ You have to write a script in any language (preferably Python) to scrape data fr
     - `item1`
     - `item2`
     - `body`
+
 #### Example
+
 Difference Between Challenge and Problem
+
 | id | item1     | item 2  | body                                                                                                                                                                                                                                                                                                                        | page no |
 |----|-----------|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
 | 1  | Challenge | Problem | Key Difference – Challenge vs Problem, In day to day life we often encounter challenges and problems on our way to success. These can often hinder our progress and make it difficult for us to achieve our goals. Most people consider challenges and problems to be synonymous as both create a barrier for the individual. | 1       |
@@ -123,5 +126,4 @@ Install Hadoop (Single Node)(run all nodes and a screenshot of `jps`) and apache
 Host server on local PC and set up virtual hosts on same PC (screenshot of the config files whatever altered and a screenshot of virtual host with name `yourname.com` opened in browser)
 
 Happy Hacking! :smile:
-
 
