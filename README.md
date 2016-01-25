@@ -125,6 +125,8 @@ Install Hadoop (Single Node)(run all nodes and a screenshot of `jps`) and apache
 
 Host server on local PC and set up virtual hosts on same PC (screenshot of the config files whatever altered and a screenshot of virtual host with name `yourname.com` opened in browser)
 
+
+
+For any queries open an issue in this repository.
+
 Happy Hacking! :smile:
-
-
