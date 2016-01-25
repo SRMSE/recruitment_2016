@@ -1,5 +1,8 @@
 # SRMSE 2016 Recruitment Tasks
-`Please register for the recruitment process before submitting your tasks. Register at http://www.srmsearchengine.in`
+
+`Please register for the recruitment process before submitting your tasks.`
+
+`Register at http://www.srmsearchengine.in`
 
 There are two tasks to be submitted:
 -   Open Task
@@ -93,7 +96,7 @@ _In this category you can submit any website or webapp or even the link of websi
 #### Task 2: Sentimental Analysis (Binary Classifier)
 ##### Key Points
 - Only positive and negative analysis of sentence.
-- Testing data and training data is given in this git repo.
+- Testing data and training data is given in this git repo. (sentimental_testdata.txt ,sentimental_training.txt)
 
 ### Domain4: Linux
 
@@ -108,7 +111,7 @@ Make a `bash` script, which does the following tasks in this order
 
 ##### Task 2
 
-You are given a log file inside inside the `logs` directory.
+You are given a log file inside inside the `logs` directory of this github repo.
 
 Write a script which parses the log file for the date `Jan 21` in a line and then in that line searches for the words
 
