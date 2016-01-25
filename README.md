@@ -21,6 +21,9 @@ There are two tasks to be submitted:
 _Please submit your tasks before deadline. Even incomplete tasks are appreciated._
 
 _Questions will be asked from your code._
+
+***
+
 ## Domain Specific Questions
 ### Domain1: Web Scraping Tasks
 
@@ -84,9 +87,13 @@ _Preferred Language is Python!! But it is upto you how much you want to write th
 |----|----------------------|------------------------------------------------------------------------------------------------------------------------------------|------------|----------|------------------|
 | 1  | Surjit Singh Barnala | https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/H_E_Shri_Surjit_Singh_Barnala.jpg/75px-H_E_Shri_Surjit_Singh_Barnala.jpg | 1948       | 1952     | Jawaharlal Nehru |
 
+***
+
 ### Domain2: Web Development Tasks
 
 _In this category you can submit any website or webapp or even the link of website you have made._
+
+***
 
 ### Domain3: Natural Language Processing
 
@@ -97,6 +104,8 @@ _In this category you can submit any website or webapp or even the link of websi
 ##### Key Points
 - Only positive and negative analysis of sentence.
 - Testing data and training data is given in this git repo. (sentimental_testdata.txt ,sentimental_training.txt)
+
+***
 
 ### Domain4: Linux
 
@@ -111,7 +120,7 @@ Make a `bash` script, which does the following tasks in this order
 
 ##### Task 2
 
-You are given a log file inside inside the `logs` directory of this github repo.
+You are given the log file
 
 Write a script which parses the log file for the date `Jan 21` in a line and then in that line searches for the words
 
@@ -129,6 +138,7 @@ Install Hadoop (Single Node)(run all nodes and a screenshot of `jps`) and apache
 
 Host server on local PC and set up virtual hosts on same PC (screenshot of the config files whatever altered and a screenshot of virtual host with name `yourname.com` opened in browser)
 
+***
 
 
 For any queries open an issue in this repository.
