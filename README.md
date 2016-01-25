@@ -2,16 +2,16 @@
 
 There are two tasks to be submitted:
 -   Open Task
-    -  In this task you can submit any app,website etc or basically any code written by you. There are no language constraints on it.
+    -  In this task, you can submit any app, website etc or basically any code written by you. There are no language constraints on it.
 -   Domain Specific Task
-    - In this task you have to submit solution to any one problem from below given domains. You can solve any domain any number of problems. There are no constraints on that issue.
+    - In this task, you have to submit solution to any one problem from below given domains. You can solve any domain any number of problems. There are no constraints on that issue.
 
 ##### Deadline : 2nd Feb 2016
 ##### Submission Method :
 -   If you are familier with git
     -  Open an issue in this repo as `Task submission <YOUR REG NUMBER>`.And paste the link of your github repo with your task.
--   If you are not familier with git
-    -   Just email your zip file with your registeration number in subject as `Recruitment task <YOUR REG NUMBER> ` at srmsesrmse@gmail.com
+-   If you are not familiar with git
+    -   Just email your zip file with your registration number in subject as `Recruitment task <YOUR REG NUMBER> ` at srmsesrmse@gmail.com
 
 
 _Please submit your tasks before deadline. Even incomplete tasks are appreciated._
@@ -82,7 +82,7 @@ _Preferred Language is Python!! But it is upto you how much you want to write th
 
 ### Domain2: Web Development Tasks
 
-_In this category you can submit any website or webapp or even the link of website you have made._
+_In this category you can submit any website or web app or even the link of website you have made._
 
 ### Domain3: Natural Language Processing
 
@@ -91,7 +91,7 @@ _In this category you can submit any website or webapp or even the link of websi
 
 #### Task 2: Sentimental Analysis (Binary Classifier)
 ##### Key Points
-- Only positive and negative analysis of sentence.
+- Only positive and negative analysis of a sentence.
 - Testing data and training data is given in this git repo.
 
 ### Domain4: Linux
@@ -103,11 +103,11 @@ Make a `bash` script, which does the following tasks in this order
 - Unzip the `.gz` file
 - Delete all the `pycache files`.
 - Remove the comments in all the files present. And by comments we mean `python` comments
-- Replace the occurence of the word **Tasdik Rahman** in all the files with **Your name**
+- Replace the occurrence of the word **Tasdik Rahman** in all the files with **Your name**
 
 ##### Task 2
 
-You are given a log file inside inside the `logs` directory.
+You are given a log file inside the `logs` directory.
 
 Write a script which parses the log file for the date `Jan 21` in a line and then in that line searches for the words
 
@@ -115,11 +115,11 @@ Write a script which parses the log file for the date `Jan 21` in a line and the
 - `SUCCESS`
 - `INFO`
 
-and store(append) those lines into seperate files. i.e a line with `ERROR` should be stored in the file `error.txt` and so on. 
+and store(append) those lines into separate files. i.e a line with `ERROR` should be stored in the file `error.txt` and so on. 
 
 ##### Task 3
 
-Install Hadoop (Single Node)(run all nodes and a screenshot of `jps`) and apache spark(screen shot when installation completed)
+Install Hadoop (Single Node)(run all nodes and a screenshot of `jps`) and apache-spark(screen shot when installation completed)
 
 ##### Task 4
 
