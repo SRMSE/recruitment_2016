@@ -1,9 +1,11 @@
 # recruitment_2016
 Tasks for people applying for the recruitment process.
 
-#### Tasks for DevOps
+## Tasks for DevOps
 
-## Task 1
+Download the `tar` file from the releases first. It is under release `v0.0.1`
+
+##### Task 1
 
 Make a `bash` script, which does the following tasks in this order
 
@@ -12,7 +14,7 @@ Make a `bash` script, which does the following tasks in this order
 - Remove the comments in all the files present. And by comments we mean `python` comments
 - Replace the occurence of the word **Tasdik Rahman** in all the files with **Your name**
 
-## Task 2
+##### Task 2
 
 You are given a log file inside inside the `logs` directory.
 
